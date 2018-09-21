@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": "https://github.com/foxadb/react-boilerplate",
   "author": "Samy Amraoui <sametzy@gmail.com>",
-  "license": "MIT",
+  "license": "WTFPL",
   "scripts": {
     "start": "webpack-dev-server --mode development --open --hot",
     "build": "webpack --mode production"
